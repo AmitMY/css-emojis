@@ -1,0 +1,16 @@
+{
+  "name": "css-emojis",
+  "version": "0.0.1",
+  "description": "Emojis for HTML using CSS",
+  "main": "emojis.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "emojis",
+    "css",
+    "emojis"
+  ],
+  "author": "AmitMY",
+  "license": "MIT"
+}
