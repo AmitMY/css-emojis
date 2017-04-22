@@ -20,10 +20,11 @@ For skin-tones, you can do:
 ```
 
 Where the available tones are:
-|tone|example|
-|----|-------|
-|light|👶🏻|
-|medium-light|👶🏼|
-|medium|👶🏽|
-|medium-dark|👶🏾|
-|dark|👶🏿|
+
+| tone         | example |
+|--------------|---------|
+| light        | 👶🏻    |
+| medium-light | 👶🏼    |
+| medium       | 👶🏽    |
+| medium-dark  | 👶🏾    |
+| dark         | 👶🏿    |
